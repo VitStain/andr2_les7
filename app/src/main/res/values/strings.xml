@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherWithMVVM</string>
+    <string name="temperature_label">Температура</string>
+    <string name="feels_like_label">Ощущается как</string>
+    <string name="city_coordinates">lt/ln: %s, %s"</string>
+    <string name="switcher_of_cities">Switcher of cities</string>
+    <string name="error">Error</string>
+    <string name="reload">Reload</string>
+    <string name="start">Start</string>
+    <string name="threads">Threads</string>
+    <string name="calculate">Расчет</string>
+</resources>
